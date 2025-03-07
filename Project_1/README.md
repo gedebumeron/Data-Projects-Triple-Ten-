@@ -12,7 +12,7 @@ This project aims to dissect and understand the ordering patterns of Zomato's di
 - The project involved statstical analysis to understand trends and patterns , followed by visualization to represent the findings effectively.
 
 ## 🖼 Visuals
-![Project Dashboard](Zomato_Dashboard.png)
+![Project Dashboard](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/Zomato_Dashboard.png)
 
 ## 📊 Results & Findings
 - Age group insights: Younger age groups (18-24)are more active in placing orders compared to older groups.
