@@ -13,7 +13,7 @@ This project aims to dissect and understand the ordering patterns of Zomato's di
 
 ## 🖼 Visuals
 *(Include images or screenshots of dashboards, graphs, or results here)*
-- ![Project Screenshot](screenshot1.png)
+- ![Project Screenshot](Zomato Dashboard.png)
 - ![Project Visualization](screenshot2.png)
 
 ## 📊 Results & Findings
