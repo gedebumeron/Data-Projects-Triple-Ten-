@@ -1,4 +1,4 @@
-# Project 1: [Zomato Customer Analysis]
+# Project 1: Zomato Customer Analysis
 
 ## 📌 Introduction
 This project aims to dissect and understand the ordering patterns of Zomato's diverse customer base. By analyzing data across various demographics , including age, income, and family size, this project seeks to uncover insights that could drive more tailored marketing strategies and enhance customer engagment. 
