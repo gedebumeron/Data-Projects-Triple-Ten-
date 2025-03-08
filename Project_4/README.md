@@ -17,7 +17,7 @@ This project delves into the manhattan vacation rental market through a detailed
 - ![Project 4 chart](project4_chart2.png)
 
 ## 📊 Results & Key Findings
-- - ![Conclusion](project4.png)
+- - ![Conclusion](Manhattan analysis.png)
 
 
 ## 💡 Future Improvements
