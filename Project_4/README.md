@@ -13,7 +13,7 @@ This project delves into the manhattan vacation rental market through a detailed
 
 ## 🖼 Visuals
 *(Include screenshots of dashboards, graphs, or results here)*
-- ![Project 4 chart](project4_chart1.png)
+- ![Project 4 chart](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/manhattan_chart.png)
 - ![Project 4 chart](project4_chart2.png)
 
 ## 📊 Results & Key Findings
