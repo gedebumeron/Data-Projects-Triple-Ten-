@@ -11,4 +11,4 @@ Welcome to my data projects repository! This repository contains various data an
 - [Project 5: (Shopify App store)](Project_5/README.md)
 - [Project 6: (Returned orders analysis at Superstore)](Project_6/README.md)
 
-Click on the project links to see details about each one.
+Click on the project links to see details about each project.
