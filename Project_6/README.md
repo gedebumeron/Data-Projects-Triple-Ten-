@@ -14,7 +14,7 @@ This project aims to investigate the underlying reasons behind customer returns 
 ## 🖼 Visuals
 See the visuals at Tableau Public using this link
 - ![Project 6 Visualizations](https://public.tableau.com/views/SuperstoreReturnProject/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+  
 ## 📊 Results & Key Findings
 - Key Drivers of returns: Early findings may indicate that certain product categories or quality issues are major drivers of returns.
 - Understanding specfic reasons behind returns can help Superstoretailor its product offerings, imrpove quality control and enhance customer pre-purchase support.
