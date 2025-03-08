@@ -13,7 +13,7 @@ This project aims to investigate the underlying reasons behind customer returns 
 
 ## 🖼 Visuals
 See the visuals at Tableau Public using this link
-👉 **[Tableau Public - Project 6 ](https://public.tableau.com/views/MeronGSuprstoreViz/Biggestprofitlossmakerstates?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+👉 **[Tableau Public - Project 6 ](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/tableau%20.png)**
   
 ## 📊 Results & Key Findings
 - Key Drivers of returns: Early findings may indicate that certain product categories or quality issues are major drivers of returns.
