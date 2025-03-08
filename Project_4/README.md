@@ -12,9 +12,9 @@ This project delves into the manhattan vacation rental market through a detailed
 - Tools used : conducted the entire alalysis using Microsoft Excel, leveraging advanced functions for data sorting, filtering and aggregation.
 
 ## 🖼 Visuals
-*(Include screenshots of dashboards, graphs, or results here)*
+
 - ![Project 4 chart](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/manhattan_chart.png)
-- ![Project 4 chart](project4_chart2.png)
+- ![Project 4 chart](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/Manhattan_chart2.png)
 
 ## 📊 Results & Key Findings
 - - ![Conclusion](https://github.com/gedebumeron/Data-Projects-Triple-Ten-/blob/main/Manhattan%20analysis.png)
@@ -22,3 +22,5 @@ This project delves into the manhattan vacation rental market through a detailed
 
 ## 💡 Future Improvements
 - Market Trend Analysis: Further analysis with more recent data could provide undated trends and shifts in consumer prefrence post-pandemic.
+- Dynamic Pricing strategies: Implementing and analyzing dynamic pricing strategies could maximize revenue for property owners.
+- Diversification Recommendations: Explore potential benefits of diversifying peropeprty potfolios to include mix of property types and locations to hedge agains market volatility.
